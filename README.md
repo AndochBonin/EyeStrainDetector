@@ -7,6 +7,5 @@ Python desktop application designed to notify the user when eye strain is detect
 - set your preferences on the notification interval and eye ratio for strain detection
 - hide the window and continue using your computer as usual till you get a notification.
 
-![Uploading image.png…]()
 
-![Uploading image.png…]()
+
